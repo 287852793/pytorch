@@ -1,0 +1,8 @@
+.idea/
+venv/
+app/logs/*
+app/models/*
+app/__pycache__/
+dataset/
+*.pth
+/dataset
